@@ -1,3 +1,4 @@
 # requirements.txt TRANSITIONING THE CODE FROM INSIDE SNOWFLAKE TO OUTSIDE OF SNOWFLAKE IN THESE FEW LABS.
 snowflake-snowpark-python
 streamlit
+requests
