@@ -1,7 +1,3 @@
-name: app_environment
-channels:
-  - snowflake
-dependencies:
-  - python=3.8.*
-  - snowflake-snowpark-python=
-  - streamlit=
+# requirements.txt TRANSITIONING THE CODE FROM INSIDE SNOWFLAKE TO OUTSIDE OF SNOWFLAKE IN THESE FEW LABS.
+snowflake-snowpark-python
+streamlit
